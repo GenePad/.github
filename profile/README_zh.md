@@ -34,16 +34,31 @@
 
 <div align="center">
 
-<img src="https://genepad.pages.dev/screenshot/%E6%95%B4%E4%BD%93%E5%9B%BE%E8%B0%B1.png" width="85%" alt="整体图谱" />
+<img src="https://genepad.pages.dev/screenshot/%E6%95%B4%E4%BD%93%E5%9B%BE%E8%B0%B1.png" width="88%" alt="整体图谱" />
 
-<sub>整体质粒图谱</sub>
+<sub><b>整体质粒图谱</b></sub>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/GenePad/GenePad.github.io/main/docs/screenshot/%E7%99%BD%E5%A4%A9%E6%A8%A1%E5%BC%8F.png" width="45%" alt="白天模式" />
-<img src="https://raw.githubusercontent.com/GenePad/GenePad.github.io/main/docs/screenshot/%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.png" width="45%" alt="夜间模式" />
+<img src="https://genepad.pages.dev/screenshot/%E7%99%BD%E5%A4%A9%E6%A8%A1%E5%BC%8F.png" width="45%" alt="白天模式" />
+<img src="https://genepad.pages.dev/screenshot/%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F.png" width="45%" alt="夜间模式" />
 
-<sub>白天模式 / 夜间模式</sub>
+<sub>白天模式&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夜间模式</sub>
+
+<br><br>
+
+<img src="https://genepad.pages.dev/screenshot/%E5%9B%BE%E8%B0%B1%E4%B8%80%E9%94%AE%E7%9B%B4%E8%BE%BE%E5%BA%8F%E5%88%97.png" width="31%" alt="图谱一键直达序列" />
+<img src="https://genepad.pages.dev/screenshot/%E9%85%B6%E5%88%87%E4%BD%8D%E7%82%B9%E6%98%BE%E7%A4%BA.png" width="31%" alt="酶切位点显示" />
+<img src="https://genepad.pages.dev/screenshot/%E6%B5%8B%E5%BA%8F%E7%BB%93%E6%9E%9C1.png" width="31%" alt="测序结果" />
+
+<sub>图谱一键直达序列&nbsp;&nbsp;&nbsp;&nbsp;酶切位点显示&nbsp;&nbsp;&nbsp;&nbsp;测序结果</sub>
+
+<br><br>
+
+<img src="https://genepad.pages.dev/screenshot/%E8%9B%8B%E7%99%BD%E5%B1%9E%E6%80%A7%E6%98%BE%E7%A4%BA.png" width="45%" alt="蛋白属性显示" />
+<img src="https://genepad.pages.dev/screenshot/%E5%A4%9A%E8%AF%AD%E8%A8%80%E6%94%AF%E6%8C%81.png" width="45%" alt="多语言支持" />
+
+<sub>蛋白属性显示&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多语言支持</sub>
 
 </div>
 
